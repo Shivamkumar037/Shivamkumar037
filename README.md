@@ -1,101 +1,240 @@
-<!-- ===== THEME-AWARE HERO ===== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamkumar037/Shivamkumar037/main/profile-assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivamkumar037/Shivamkumar037/main/profile-assets/hero-light.svg">
-  <img alt="Shivam Kumar" src="https://raw.githubusercontent.com/Shivamkumar037/Shivamkumar037/main/profile-assets/hero-light.svg">
-</picture>
+::: {align="center"}
+# 👋 Hi, I'm Shivam Kumar
 
-<div align="center">
+### Backend Developer \| Java & Spring Boot \| Full-Stack Enthusiast
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Backend+Developer+(Java+%26+Spring+Boot);Full-Stack+MERN+Developer;Building+Secure+%26+Scalable+APIs;Open+to+Internship+%26+Full-Time+Roles)
+I build **secure, maintainable and scalable web applications** with a
+strong focus on backend engineering, REST APIs, databases and clean
+architecture.
 
-</div>
+```{=html}
+<p>
+```
+`<a href="https://github.com/Shivamkumar037">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html}
+`<a href="https://linkedin.com/in/shivam-kumar-34743310">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html} `<a href="mailto:shivamkumar37j@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+:::
 
----
+------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### Languages
-![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white)
+I'm a **B.Tech Computer Science & Engineering student at SRIMT,
+Lucknow**, focused on backend development and system design.
 
-### Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B4DA1?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0B4DA1?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-0B4DA1?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0B4DA1?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-0B4DA1?style=for-the-badge&logo=express&logoColor=white)
+I enjoy building applications that involve:
 
-### Frontend & Databases
-![React](https://img.shields.io/badge/React-1D4ED8?style=for-the-badge&logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-1D4ED8?style=for-the-badge&logo=vite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1D4ED8?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white)
+-   🔐 Authentication, authorization and secure APIs
+-   📡 REST API design and development
+-   🗄️ Database design and optimization
+-   🏗️ MVC and layered application architecture
+-   ⚡ Performance, caching and clean code
+-   🧠 Problem solving and system design
 
----
+My goal is to keep improving as an engineer by building real projects
+and learning how reliable software systems are designed.
 
-<!-- ===== PROJECTS ===== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamkumar037/Shivamkumar037/main/profile-assets/projects-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivamkumar037/Shivamkumar037/main/profile-assets/projects-light.svg">
-  <img alt="Projects" src="https://raw.githubusercontent.com/Shivamkumar037/Shivamkumar037/main/profile-assets/projects-light.svg">
-</picture>
+------------------------------------------------------------------------
 
----
+## 🧰 Tech Stack
 
-## 📊 GitHub Stats
+### Backend
 
-<div align="center">
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>`{=html}
+```{=html}
+</p>
+```
+### Database & Caching
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivamkumar037&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=2563EB&icon_color=38BDF8&text_color=94A3B8&bg_color=050B16" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamkumar037&layout=compact&hide_border=true&theme=tokyonight&title_color=2563EB&text_color=94A3B8&bg_color=050B16" height="165"/>
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>`{=html}
+```{=html}
+</p>
+```
+### Tools
 
-<br/>
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>`{=html}
+`<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>`{=html}
+```{=html}
+</p>
+```
 
-<img src="https://streak-stats.demolab.com/?user=Shivamkumar037&hide_border=true&background=050B16&stroke=2563EB&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=2563EB" width="80%" />
+------------------------------------------------------------------------
 
-</div>
+## 📌 Featured Projects
 
----
+### 🗳️ Electronic Voting Machine System
 
-## 🏆 GitHub Trophies
+A backend-focused voting system designed around authentication,
+authorization and election workflow management.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivamkumar037&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+**Highlights** - Role-based authentication with Spring Security -
+Server-side validation and access control - Voting lifecycle
+management - Result computation - MVC architecture and REST APIs -
+Database indexing and structured persistence
 
----
+**Stack:** `Java` `Spring Boot` `Spring Security` `MySQL` `Hibernate`
 
-## 📫 Connect With Me
+🔗 [View Repository](https://github.com/Shivamkumar037/evm_system)
 
-<div align="center">
+------------------------------------------------------------------------
 
-<a href="https://linkedin.com/in/shivam-kumar-34743310">
-  <img src="https://img.shields.io/badge/LINKEDIN-050B16?style=for-the-badge&logoColor=38BDF8&labelColor=050B16&logo=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:shivamkumar37j@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-050B16?style=for-the-badge&logoColor=38BDF8&labelColor=050B16&logo=gmail" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Shivamkumar037">
-  <img src="https://img.shields.io/badge/GITHUB-050B16?style=for-the-badge&logoColor=38BDF8&labelColor=050B16&logo=github" alt="GitHub" />
-</a>
+### 🌐 Social Media Management Backend
 
-</div>
+A backend system for managing users, posts and social interactions.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivamkumar037&color=2563EB&style=flat-square&label=Profile+Views" />
-</div>
+**Highlights** - User, post, comment, reply and like functionality -
+Nested comment hierarchy - Redis caching - Docker containerization -
+Query optimization and indexing - DTO, service and entity based layered
+architecture
 
-<div align="center">
+**Stack:** `Java` `Spring Boot` `MySQL` `Redis` `Docker`
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+🔗 [View GitHub](https://github.com/Shivamkumar037)
 
-</div>
+------------------------------------------------------------------------
+
+### 💬 Feedback Management System
+
+A secure feedback platform focused on authentication, authorization and
+structured REST APIs.
+
+**Highlights** - Spring Security based access control - CRUD REST APIs -
+MVC architecture - Search and filtering - Role-based permissions -
+Analytics-ready data structure
+
+**Stack:** `Java` `Spring Boot` `Spring Security` `MySQL`
+
+🔗 [View GitHub](https://github.com/Shivamkumar037)
+
+------------------------------------------------------------------------
+
+## 🧠 Core Engineering Skills
+
+  Area                 Focus
+  -------------------- --------------------------------------------------
+  🔐 Security          Authentication, Authorization, Spring Security
+  📡 APIs              REST API design, endpoint structure, API testing
+  🗄️ Databases         SQL, schema design, queries, indexing
+  🏗️ Architecture      MVC, layered architecture, clean code
+  ⚡ Performance       Caching, query optimization, indexing
+  🐳 Deployment        Docker and deployment fundamentals
+  🧩 Problem Solving   Debugging, DSA and system design
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Activity
+
+::: {align="center"}
+`<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shivamkumar037&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0E27&text_color=E8EAF0&icon_color=00D9FF" />`{=html}
+
+`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamkumar037&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0E27&text_color=E8EAF0" />`{=html}
+:::
+
+::: {align="center"}
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamkumar037&theme=tokyonight&hide_border=true&background=0A0E27&stroke=00D9FF&ring=00D9FF&fire=FF6B35" />`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 📚 Currently Exploring
+
+``` text
+System Design
+     │
+     ├── Scalability & Load Balancing
+     ├── Database Sharding & Replication
+     └── Caching Strategies
+
+Advanced Backend
+     │
+     ├── Microservices Architecture
+     ├── Event-Driven Systems
+     └── Design Patterns
+
+DevOps & Infrastructure
+     │
+     ├── CI/CD
+     ├── Containerization
+     └── Cloud Deployment
+```
+
+------------------------------------------------------------------------
+
+## 🏆 Certifications & Learning
+
+The profile currently includes learning/certification work in:
+
+-   Java
+-   Spring Boot
+-   Git & GitHub
+-   PostgreSQL
+-   SQL
+
+------------------------------------------------------------------------
+
+## 💼 What I Can Work On
+
+I'm interested in building:
+
+-   🔹 Backend systems
+-   🔹 REST APIs
+-   🔹 Spring Boot applications
+-   🔹 Authentication & authorization systems
+-   🔹 Database-driven applications
+-   🔹 Business web applications
+-   🔹 Full-stack web projects
+
+If you have an interesting project or collaboration idea, feel free to
+reach out.
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+::: {align="center"}
+`<a href="mailto:shivamkumar37j@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html}
+
+`<a href="https://linkedin.com/in/shivam-kumar-34743310">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
+`</a>`{=html}
+
+`<a href="https://github.com/Shivamkumar037">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
+`</a>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### 💡 Build with purpose. Learn continuously. Solve real problems.
+
+**Thanks for visiting my profile! 🚀**
+:::
